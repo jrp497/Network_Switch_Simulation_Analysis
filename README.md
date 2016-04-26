@@ -1,3 +1,3 @@
 ## Network_Switch_Simulation_Analysis
 
-report.pdf contains all the relevant details
+Report.pdf contains all the relevant details
